@@ -1,0 +1,6 @@
+There are new test methods written one is for web and another is for command line
+The API is returning the temparature values for every 3 hours
+and some values for the same day is matching with 2 or more conditions and hence i printed every thing as per the response from api
+For the web application as it was supposed to return a table i can convert it in to a json object or xml object so that 
+it will become easy to handle from the web application
+i have not done the implementation of conversion of xml or json as i am describing only the approach here 
